@@ -1,4 +1,9 @@
 /**
+ * 合并两个已排序数组
+ *
+ * A = [1,2,3,4]
+ * B = [2,4,5,6]
+ * Result = [1,2,2,3,4,4,5,6]
  * 普通解法，不考虑其中一个数组是否很大
  */
 fun mergeSortedArray(a: IntArray, b: IntArray): IntArray {
