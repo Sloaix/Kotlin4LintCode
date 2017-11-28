@@ -1,0 +1,1 @@
+Daily exercise for LintCode used kotlin.
